@@ -1,0 +1,6 @@
+h5py
+huggingface_hub
+mne
+numpy
+torch
+pandas
